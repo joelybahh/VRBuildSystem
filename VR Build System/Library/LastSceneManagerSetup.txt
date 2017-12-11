@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/VR Build System/_Examples/Scene00.unity
+  isLoaded: 1
+  isActive: 1
